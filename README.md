@@ -6,8 +6,6 @@ So it goes.
 
 This purpose of this exercise was to write a method called `LastPersonStanding` that, for a given `numberOfPeople` and a `killingInterval`, determines the position of the person who would remain standing. For example, if there are 10 people, and they kill every third person:
 `numberOfPeople = 10`, `killingInterval = 3`
-
- Then the "Josephus Position" is #4.
  
  The sequence would go like this:
  ```
@@ -18,3 +16,4 @@ This purpose of this exercise was to write a method called `LastPersonStanding` 
  5th round:                                                                        4 (10)
  ```
  
+So the last person standing is at position #4.
