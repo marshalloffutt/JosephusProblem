@@ -12,9 +12,9 @@ This purpose of this exercise was to write a method called `LastPersonStanding` 
  The sequence would go like this:
  ```
  1st round: 1 2 (3) 4 5 (6) 7 8 (9) 10
-    2nd round:                            1 (2) 4 5 (7) 8 10
-    3rd round:                                                (1) 4 5 (8) 10
-    4th round:                                                               4 (5) 10
-    5th round:                                                                        4 (10)
+ 2nd round:                            1 (2) 4 5 (7) 8 10
+ 3rd round:                                                (1) 4 5 (8) 10
+ 4th round:                                                               4 (5) 10
+ 5th round:                                                                        4 (10)
  ```
  
